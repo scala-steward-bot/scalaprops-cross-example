@@ -1,4 +1,4 @@
-val scalaVersions = Seq("2.13.18", "3.8.4")
+val scalaVersions = Seq("2.13.18", "3.9.0")
 
 val example = projectMatrix
   .in(file("."))
